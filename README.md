@@ -1,5 +1,3 @@
-# BikeSharing-Dataset-Dicoding
-
 # Bike Sharing Dataset Dashboard
 
 Untuk menjalankan dashboard ini di komputer *lokal*, ikuti langkah-langkah berikut ini:
